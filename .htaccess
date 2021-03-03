@@ -1,0 +1,5 @@
+RewriteEngine On
+
+#ajout d'une regle
+RewriteRule  ^index$ index.php
+#RewriteRule ^produit/list$ src/view/produit/list.php
